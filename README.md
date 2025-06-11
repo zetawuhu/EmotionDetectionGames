@@ -17,3 +17,5 @@ pip install -r requirement.txt
 
 运行 `python game_launcher.py` 可以启动游戏，点击可以选择想玩的游戏。点击 `ESC` 可以退出。
 
+![p1](/assets/p1.png)
+
